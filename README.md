@@ -61,8 +61,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-**This project proposed a computational pipeline to analyze the tumor microenvironment in hepatocellular carcinoma patients treated with neoadjuvant cabozantinib and nivolumab. The cohort was previously described in our**
-[Nature Cancer paper](https://www.nature.com/articles/s43018-021-00234-4)
+**This project proposed a computational pipeline to analyze the tumor microenvironment in treatment-naive pancreatic adenocarcinoma patients. The cohort was previously described in our**
+[Cancer Discovery paper](https://aacrjournals.org/cancerdiscovery/article-abstract/11/8/2014/666194/Leukocyte-Heterogeneity-in-Pancreatic-Ductal?redirectedFrom=fulltext)
 
 
 
@@ -87,10 +87,8 @@ The computational pipeline was developed using the following softwares:
 * Rstudio Desktop version 1.4.
 * Python version 3.8
 * Pycharm Python IDE version 2020.3.3.
-* QuPath version 0.2.0-m12.
-* StarDist (Deep-learning based segmentation algorithm).
 * R packages listed at the beginning of each R script.
-* Morpheus web-based heatmap generator.
+* BioRender
 
 
 <!-- INSTALLATION GUIDE -->
