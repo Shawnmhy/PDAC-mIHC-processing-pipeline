@@ -104,20 +104,11 @@ To install the pipeline, simply download the codes and run from local R or Pytho
 <!-- USAGE EXAMPLES -->
 ### Usage
 
-The pipeline consists of four components:
-* First-order property characterization
-* Compartment analysis
-* Mixed analysis
-* Network analysis
+The pipeline consists of three components:
+* PDAC_IHCpipeline0
+* PDAC_IHCpipeline1
+* PDAC_IHCpipeline2
 
-Codes for each part are uploaded to the specific folder for reproducibility.
-
-
-
-<!-- DEMO -->
-## Demo
-
-To run the codes, please visit our [Code Ocean repository](https://10.24433/CO.7308874.v1)
 
 
 <!-- LICENSE -->
