@@ -104,11 +104,12 @@ To install the pipeline, simply download the codes and run from local R or Pytho
 <!-- USAGE EXAMPLES -->
 ### Usage
 
-The pipeline consists of three components:
+The pipeline consists of five components:
 * PDAC_IHCpipeline0.R (Data preprocessing, patient group split, first-order characterization)
 * PDAC_IHCpipeline1.R (mIRS computation)
 * PDAC_IHCpipeline2.R (immune aggregations computation)
 * PDAC_IHCpipeline_validation.R (validation of biomarkers on a neoadjuvant-treated cohort)
+* Function.R (Custom R functions defined for computations)
 
 
 <!-- LICENSE -->
