@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Shawnmhy/PDAC-mIHC-processing-pipeline">
     <img src="./images/logo.png" alt="Logo" width="250" height="180">
   </a>
 
