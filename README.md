@@ -56,7 +56,9 @@
   </ol>
 </details>
 
-
+<!-- UPDATE -->
+## Update
+**The study has now been published at [Cancer Research](https://aacrjournals.org/cancerres/article/82/23/4359/710697/Quantitative-Spatial-Profiling-of-Immune) and is featured as the journal cover!
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
